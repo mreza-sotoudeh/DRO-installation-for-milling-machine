@@ -1,0 +1,14 @@
+# SolidWorks temporary / lock files
+~$*
+*.swo
+*.swp
+*.tmp
+*.bak
+*.lck
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB temporary files
+*.asv
