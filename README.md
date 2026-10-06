@@ -143,6 +143,10 @@ Included drawing sets:
 
 Both editable `.SLDDRW` files and PDF versions are included where supplied.
 
+## Rendering
+[`Internship_Report.docx`](Documentation/Internship_Report.docx)
+
+
 ## Alternative Solutions
 
 The report also investigates alternatives to the basic DRO installation, particularly solutions for workpiece positioning and setup:
