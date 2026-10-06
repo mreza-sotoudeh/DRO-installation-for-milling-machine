@@ -144,7 +144,17 @@ Included drawing sets:
 Both editable `.SLDDRW` files and PDF versions are included where supplied.
 
 ## Rendering
-[`Internship_Report.docx`](Documentation/Internship_Report.docx)
+## CAD Renderings
+
+<p align="center">
+  <img src="Renders/Isometric-view.png" width="45%">
+  <img src="Renders/front-view.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Renders/side-view.png" width="45%">
+  <img src="Renders/up-view.png" width="45%">
+</p>
 
 
 ## Alternative Solutions
