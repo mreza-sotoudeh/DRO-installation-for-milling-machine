@@ -175,13 +175,13 @@ The report presents indicative international and approximate Iranian-market pric
 ## Documentation
 
 - [`DRO_Milling_Machine_Persian_Report.pdf`](Documentation/DRO_Milling_Machine_Persian_Report.pdf) — Internship's Report (Persian)
+- [`DRO_Milling_Machine_English_Report.pdf`](Documentation/DRO_Milling_Machine_English_Report.pdf) — Internship's Report (English)
 - [`CAD/Assembly/`](CAD/Assembly/) — SolidWorks assembly and part files
 - [`CAD/Drawings/`](CAD/Drawings/) — engineering drawings in PDF and SolidWorks formats
 
 ## Software and Tools
 
 - SolidWorks — 3D modeling, assembly, engineering drawings, and simulation-related work
-- SolidWorks Simulation — supporting FEA study documented in the report
 - Digital Readout / Linear Encoder documentation — equipment selection and technical review
 
 ## Project Status
