@@ -168,52 +168,9 @@ Several commercial DRO systems were compared in the report, including:
 
 The report presents indicative international and approximate Iranian-market prices for these alternatives. Prices are market-dependent and should be re-verified before procurement.
 
-## Additional Engineering Analysis
-
-The internship report also contains a separate **Finite Element Analysis (FEA)** study of a perforated cylindrical filter for a scrubber system. This analysis is included in the report as an additional engineering activity and is not part of the DRO installation mechanism itself.
-
-Two perforation patterns were compared under identical conditions:
-
-| Parameter | Case 1 | Case 2 |
-| --- | ---: | ---: |
-| Hole diameter | 3 mm | 5 mm |
-| Pitch | 5 mm | 8 mm |
-| Sheet thickness | 0.8 mm | 0.8 mm |
-| Material | Galvanized Carbon Steel | Galvanized Carbon Steel |
-| Working pressure | 7 bar | 7 bar |
-| Maximum Von Mises stress | 52 MPa | 72 MPa |
-
-The reported maximum stress for Case 2 is approximately **38.5% higher** than Case 1. The comparison illustrates the influence of perforation geometry on local stress concentration and mechanical performance.
-
-## Repository Contents
-
-```text
-DRO-Installation-for-Milling-Machine/
-│
-├── README.md
-├── .gitignore
-│
-├── CAD/
-│   ├── Assembly/
-│   │   ├── Assem1.SLDASM
-│   │   ├── *.SLDPRT
-│   │   └── ...
-│   │
-│   └── Drawings/
-│       ├── *.SLDDRW
-│       └── *.PDF
-│
-├── Datasheets/
-│   └── DigitalReadout.pdf
-│
-└── Documentation/
-    └── Internship_Report.docx
-```
-
 ## Documentation
 
 - [`Internship_Report.docx`](Documentation/Internship_Report.docx) — editable internship project report
-- [`DigitalReadout.pdf`](Datasheets/DigitalReadout.pdf) — supplied DRO documentation/datasheet
 - [`CAD/Assembly/`](CAD/Assembly/) — SolidWorks assembly and part files
 - [`CAD/Drawings/`](CAD/Drawings/) — engineering drawings in PDF and SolidWorks formats
 
