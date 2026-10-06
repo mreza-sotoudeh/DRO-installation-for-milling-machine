@@ -174,7 +174,7 @@ The report presents indicative international and approximate Iranian-market pric
 
 ## Documentation
 
-- [`Internship_Report.docx`](Documentation/Internship_Report.docx) — editable internship project report
+- [`DRO_Milling_Machine_Persian_Report.pdf`](Documentation/Internship_Report.docx) — Internship's Report (Persian)
 - [`CAD/Assembly/`](CAD/Assembly/) — SolidWorks assembly and part files
 - [`CAD/Drawings/`](CAD/Drawings/) — engineering drawings in PDF and SolidWorks formats
 
